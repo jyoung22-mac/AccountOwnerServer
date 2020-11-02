@@ -1,0 +1,26 @@
+2020-10-28 10:46:44.5386 INFO Returned all owners from database.
+2020-10-28 10:47:28.1382 ERROR Cannot delete owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906. It has related accounts. Delete those accounts first
+2020-10-28 15:36:49.6225 INFO Returned all owners from database.
+2020-10-28 15:36:55.3391 INFO Returned all owners from database.
+2020-10-28 15:38:53.8599 INFO Returned all owners from database.
+2020-10-28 15:47:58.3212 INFO Returned all owners from database.
+2020-10-28 15:48:00.4729 INFO Returned all owners from database.
+2020-10-28 15:48:01.9384 INFO Returned all owners from database.
+2020-10-28 15:48:29.5766 INFO Returned all owners from database.
+2020-10-28 15:53:46.6708 INFO Returned all owners from database.
+2020-10-28 15:53:49.9671 INFO Returned all owners from database.
+2020-10-28 15:58:04.7465 INFO Returned all owners from database.
+2020-10-28 15:58:35.6389 INFO Returned all owners from database.
+2020-10-28 16:00:45.7774 INFO Returned all owners from database.
+2020-10-28 16:00:49.9810 INFO Returned all owners from database.
+2020-10-28 16:08:04.5930 INFO Returned all owners from database.
+2020-10-28 16:08:07.7528 INFO Returned all owners from database.
+2020-10-28 16:09:22.1881 INFO Returned all owners from database.
+2020-10-28 16:09:23.3524 INFO Returned all owners from database.
+2020-10-28 16:09:26.9409 INFO Returned all owners from database.
+2020-10-28 16:09:29.0975 INFO Returned all owners from database.
+2020-10-28 16:15:16.6421 INFO Returned all owners from database.
+2020-10-28 16:16:56.7409 INFO Returned all owners from database.
+2020-10-28 16:18:29.8894 INFO Returned all owners from database.
+2020-10-28 16:20:32.3802 INFO Returned all owners from database.
+2020-10-28 16:20:43.2496 INFO Returned all owners from database.

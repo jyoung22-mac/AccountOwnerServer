@@ -1,0 +1,14 @@
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/bin/Debug/netcoreapp3.1/Repository.deps.json
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/bin/Debug/netcoreapp3.1/Repository.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/bin/Debug/netcoreapp3.1/Repository.pdb
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/bin/Debug/netcoreapp3.1/Contracts.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/bin/Debug/netcoreapp3.1/Contracts.pdb
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/obj/Debug/netcoreapp3.1/Repository.csprojAssemblyReference.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfoInputs.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfo.cs
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CoreCompileInputs.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CopyComplete
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/obj/Debug/netcoreapp3.1/Repository.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/Repository/obj/Debug/netcoreapp3.1/Repository.pdb

@@ -1,0 +1,14 @@
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp3.1/LoggerService.deps.json
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp3.1/LoggerService.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp3.1/LoggerService.pdb
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp3.1/Contracts.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp3.1/Contracts.pdb
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csprojAssemblyReference.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.AssemblyInfoInputs.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.AssemblyInfo.cs
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csproj.CoreCompileInputs.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csproj.CopyComplete
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.pdb
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp3.1/Entities.pdb

@@ -1,0 +1,9 @@
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/bin/Debug/netcoreapp3.1/Entities.deps.json
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/obj/Debug/netcoreapp3.1/Entities.csprojAssemblyReference.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfo.cs
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CoreCompileInputs.cache
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/obj/Debug/netcoreapp3.1/Entities.dll
+/Users/aceyoung/Desktop/AccountOwnerServer/Entities/obj/Debug/netcoreapp3.1/Entities.pdb
